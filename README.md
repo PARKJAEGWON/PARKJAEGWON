@@ -1,6 +1,6 @@
-<div>
+
 ![header](https://capsule-render.vercel.app/api?type=speech&text=cO_de...Ing%20🤪&textColor=ffffff&color=0:6a11cb,100:2575fc&height=220)
-</div>
+
 
 <div>
   <!--Body-->
