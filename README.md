@@ -1,9 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=0:aee1f9,100:c3f0ff&text=%20&height=200)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ing..." />
-</p>
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ing...)
 
 
 
