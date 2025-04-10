@@ -10,32 +10,33 @@
 
 **Tech Stack**
 
-<!-- Language -->
-<img src="https://img.shields.io/badge/Java-6a11cb?style=flat-square&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-2575fc?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4e6eaf?style=flat-square&logo=postgresql&logoColor=white"/>
+<!-- 언어 -->
+<img src="https://img.shields.io/badge/Java-6a11cb?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-2575fc?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Language-4e6eaf?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-6a11cb?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-2575fc?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-4e6eaf?style=flat-square&logo=React&logoColor=white"/>
+<!-- 프론트엔드 -->
+<img src="https://img.shields.io/badge/HTML5-6a11cb?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2575fc?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-4e6eaf?style=flat-square&logo=react&logoColor=white"/>
 
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Spring_Boot-6a11cb?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-2575fc?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-4e6eaf?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-6a11cb?style=flat-square&logo=Hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-2575fc?style=flat-square&logoColor=white"/>
+<!-- 백엔드 -->
+<img src="https://img.shields.io/badge/Spring_Boot-6a11cb?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-2575fc?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA_Framework-4e6eaf?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate_ORM-6a11cb?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis_Framework-2575fc?style=flat-square&logoColor=white"/>
 
-<!-- Database -->
-<img src="https://img.shields.io/badge/MariaDB-4e6eaf?style=flat-square&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-6a11cb?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2575fc?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4e6eaf?style=flat-square&logo=MongoDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-6a11cb?style=flat-square&logo=Redis&logoColor=white"/>
+<!-- 데이터베이스 -->
+<img src="https://img.shields.io/badge/MariaDB-4e6eaf?style=flat-square&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-6a11cb?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2575fc?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4e6eaf?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-6a11cb?style=flat-square&logo=redis&logoColor=white"/>
 
-<!-- DevOps -->
-<img src="https://img.shields.io/badge/Docker-2575fc?style=flat-square&logo=Docker&logoColor=white"/>
+<!-- 인프라 -->
+<img src="https://img.shields.io/badge/Docker-2575fc?style=flat-square&logo=docker&logoColor=white"/>
+
 
   <br/>
   <br/>
