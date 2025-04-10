@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&text=Ing...&textBg=true&textColor=ffffff&height=200&section=header&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=speech&color=0:aee1f9,100:c3f0ff&text=Ing...&textColor=ffffff&height=200&fontSize=40&animation=fadeIn)
+
 
 
 
