@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=...Ing&textColor=ffffff&color=0:ff7eb3,100:ff758c)
-
+![header](https://capsule-render.vercel.app/api?type=speech&text=...Ing&textColor=ffffff&color=gradient)
 
 
 
