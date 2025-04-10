@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ing...)
-
-
+![header](https://capsule-render.vercel.app/api?type=speech&color=0:aee1f9,100:c3f0ff&text=Ing...&textColor=ffffff&fontSize=40&height=200&animation=fadeIn)
 
 
 <!--
