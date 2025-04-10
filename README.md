@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1C18DC&background=FFFFFF&vCenter=true&width=435&height=30&lines=👀+About+Me)](https://git.io/typing-svg) 
    ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A11CB&vCenter=true&width=300&lines=🧩+Tech+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A11CB&vCenter=true&width=300&lines=Tech+Stack)](https://git.io/typing-svg)
 
 
 
@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2575FC&vCenter=true&width=300&lines=📚+Studying)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2575FC&vCenter=true&width=300&lines=Studying)](https://git.io/typing-svg)
 
 <!-- 언어 -->
 <img src="https://img.shields.io/badge/JavaScript-2575fc?style=for-the-badge&logo=javascript&logoColor=white"/>
