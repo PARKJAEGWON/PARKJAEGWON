@@ -4,9 +4,9 @@
 
 <div>
   <!--Body-->
+👀
 
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1C18DC&background=FFFFFF&width=435&lines= About Me)](https://git.io/typing-svg)
+  👀[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1C18DC&background=FFFFFF&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
   ## 
   #### :raising_hand: <br/>
   #### :fire: <br/>
