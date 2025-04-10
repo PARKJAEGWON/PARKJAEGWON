@@ -16,16 +16,20 @@
 
 <!-- 백엔드 -->
 <img src="https://img.shields.io/badge/Spring_Boot-6a11cb?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-2575fc?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA_Framework-4e6eaf?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate_ORM-6a11cb?style=flat-square&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis_Framework-2575fc?style=flat-square&logoColor=white"/>
 
+
+  <br/>
   <br/>
   
 **studying**
 
+<!-- 언어 -->
 <img src="https://img.shields.io/badge/JavaScript-2575fc?style=flat-square&logo=javascript&logoColor=white"/>
+<!-- 백엔드 -->
+<img src="https://img.shields.io/badge/MyBatis_Framework-2575fc?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-2575fc?style=flat-square&logo=spring&logoColor=white"/>
 <!-- 프론트엔드 -->
 <img src="https://img.shields.io/badge/HTML5-6a11cb?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-2575fc?style=flat-square&logo=css3&logoColor=white"/>
