@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-**Studying**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2575FC&vCenter=true&width=300&lines=📚+Studying)](https://git.io/typing-svg)
 
 <!-- 언어 -->
 <img src="https://img.shields.io/badge/JavaScript-2575fc?style=for-the-badge&logo=javascript&logoColor=white"/>
