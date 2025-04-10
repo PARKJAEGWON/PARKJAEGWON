@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Spring_Security-2575fc?style=for-the-badge&logo=spring&logoColor=white"/>
 
 <!-- 프론트엔드 -->
-<img src="https://img.shields.io/badge/HTML-6a11cb?style=for-the-badge&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-6a11cb?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-2575fc?style=for-the-badge&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-4e6eaf?style=for-the-badge&logo=react&logoColor=white"/>
 
