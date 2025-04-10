@@ -1,5 +1,6 @@
-[![header](https://capsule-render.vercel.app/api?type=Speech)](https://capsule-render.vercel.app/api?type=speech&color=gradient&text=...Ing&textColor=ffffff
-)
+![header](https://capsule-render.vercel.app/api?type=speech&text=...Ing&textColor=ffffff&color=0:ff7eb3,100:ff758c)
+
+
 
 
 <!--
