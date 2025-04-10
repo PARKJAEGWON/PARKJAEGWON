@@ -7,15 +7,11 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1C18DC&background=FFFFFF&vCenter=true&width=435&height=30&lines=👀+About+Me)](https://git.io/typing-svg) 
    ##
-  
-    Tech Stack
- 
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+
+**Tech Stack**
+
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <br/>
 </div>
 
 
