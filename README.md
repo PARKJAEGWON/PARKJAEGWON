@@ -11,37 +11,39 @@
 **Tech Stack**
 
 <!-- 언어 -->
-<img src="https://img.shields.io/badge/Java-6a11cb?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Language-4e6eaf?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java-6a11cb?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Language-4e6eaf?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <!-- 백엔드 -->
-<img src="https://img.shields.io/badge/Spring_Boot-6a11cb?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA_Framework-4e6eaf?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate_ORM-6a11cb?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6a11cb?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA_Framework-4e6eaf?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate_ORM-6a11cb?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
+<br/><br/>
 
-  <br/>
-  <br/>
-  
-**studying**
+**Studying**
 
 <!-- 언어 -->
-<img src="https://img.shields.io/badge/JavaScript-2575fc?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-2575fc?style=for-the-badge&logo=javascript&logoColor=white"/>
+
 <!-- 백엔드 -->
-<img src="https://img.shields.io/badge/MyBatis_Framework-2575fc?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-2575fc?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis_Framework-2575fc?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-2575fc?style=for-the-badge&logo=spring&logoColor=white"/>
+
 <!-- 프론트엔드 -->
-<img src="https://img.shields.io/badge/HTML5-6a11cb?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-2575fc?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-4e6eaf?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-6a11cb?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2575fc?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-4e6eaf?style=for-the-badge&logo=react&logoColor=white"/>
+
 <!-- 인프라 -->
-<img src="https://img.shields.io/badge/Docker-2575fc?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2575fc?style=for-the-badge&logo=docker&logoColor=white"/>
+
 <!-- 데이터베이스 -->
-<img src="https://img.shields.io/badge/MariaDB-4e6eaf?style=flat-square&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-6a11cb?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2575fc?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4e6eaf?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-6a11cb?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-4e6eaf?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-6a11cb?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2575fc?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4e6eaf?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-6a11cb?style=for-the-badge&logo=redis&logoColor=white"/>
 
   <br/>
 </div>
