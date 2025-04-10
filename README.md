@@ -1,10 +1,6 @@
 <!-- 말풍선 배경만 (텍스트 비움) -->
 ![header](https://capsule-render.vercel.app/api?type=speech&color=0:aee1f9,100:c3f0ff&text=%20&height=200)
 
-<!-- 그 아래 따로 텍스트 (타이핑 효과 포함 가능) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=32&duration=2000&pause=1000&color=FDF6E3&center=true&vCenter=true&width=300&lines=...Ing" />
-</p>
 
 
 <!--
