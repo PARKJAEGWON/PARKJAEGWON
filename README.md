@@ -18,7 +18,7 @@
 
 <!-- 백엔드 -->
 <img src="https://img.shields.io/badge/Spring_Boot-6a11cb?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA_Framework-4e6eaf?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-4e6eaf?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate_ORM-6a11cb?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
 <br/><br/>
