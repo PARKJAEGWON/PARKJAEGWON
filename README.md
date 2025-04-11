@@ -14,7 +14,6 @@
 
 <!-- 언어 -->
 <img src="https://img.shields.io/badge/Java-6a11cb?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Language-4e6eaf?style=for-the-badge&logoColor=white"/>
 
 
 <!-- 백엔드 -->
@@ -28,6 +27,7 @@
 
 <!-- 언어 -->
 <img src="https://img.shields.io/badge/JavaScript-2575fc?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Language-4e6eaf?style=for-the-badge&logoColor=white"/>
 
 <!-- 백엔드 -->
 <img src="https://img.shields.io/badge/MyBatis_Framework-2575fc?style=for-the-badge&logoColor=white"/>
