@@ -14,6 +14,7 @@
 
 <!-- 언어 -->
 <img src="https://img.shields.io/badge/Java-6a11cb?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-2575fc?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 
 <!-- 백엔드 -->
@@ -26,7 +27,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2575FC&vCenter=true&width=300&lines=Studying)](https://git.io/typing-svg)
 
 <!-- 언어 -->
-<img src="https://img.shields.io/badge/JavaScript-2575fc?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Language-4e6eaf?style=for-the-badge&logoColor=white"/>
 
 <!-- 백엔드 -->
