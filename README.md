@@ -55,19 +55,19 @@
   <br/>
 
 <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PARKJAEGWON&utm_content=line"> -->
-<div style="display: flex; gap: 10px;"> <!-- 가로 정렬, 이미지 사이 간격 10px -->
+<div style="display: flex; gap: 10px;">
   <img
     src="https://render.gitanimals.org/lines/PARKJAEGWON?pet-id=698115423339893793"
     width="600"
     height="300"
     style="object-fit: contain;"
   />
-  <div style="height: 300px; overflow: hidden;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEGWON&layout=compact"
-      style="transform: scale(1.2); transform-origin: top; height: 300px; object-fit: contain;"
-    />
-  </div>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEGWON&layout=compact"
+    width="600"
+    height="300"
+    style="transform: scale(1.2); transform-origin: top; object-fit: contain;"
+  />
 </div>
 
 
