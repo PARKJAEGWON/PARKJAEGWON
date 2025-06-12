@@ -60,7 +60,12 @@
     width="600"
     height="300"
   />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEGWON&layout=compact)
+  <div style="height: 200px; overflow: hidden;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEGWON&layout=compact"
+    style="transform: scale(1.2); transform-origin: top;"
+  />
+</div>
 
 <!-- </a> -->
 
