@@ -55,16 +55,8 @@
   <br/>
 
 <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PARKJAEGWON&utm_content=line"> -->
-<table>
-  <tr>
-    <td>
-      <img src="https://render.gitanimals.org/lines/PARKJAEGWON?pet-id=698115423339893793" width="600" height="300" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEGWON&layout=compact" width="600" height="300" />
-    </td>
-  </tr>
-</table>
+<img src="https://render.gitanimals.org/lines/PARKJAEGWON?pet-id=698115423339893793" width="300" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEGWON&layout=compact" width="300" height="150" />
+
 
 
 <!-- </a> -->
