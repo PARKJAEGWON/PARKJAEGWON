@@ -55,17 +55,17 @@
   <br/>
 
 <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PARKJAEGWON&utm_content=line"> -->
+<div style="position: relative; width: 600px; height: 300px;">
   <img
     src="https://render.gitanimals.org/lines/PARKJAEGWON?pet-id=698115423339893793"
-    width="600"
-    height="300"
+    style="position: absolute; top: 0; left: 0; width: 600px; height: 300px;"
   />
-  <div style="height: 200px; overflow: hidden;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEGWON&layout=compact"
-    style="transform: scale(1.2); transform-origin: top;"
+    style="position: absolute; top: 0; left: 0; width: 600px; height: 300px; transform: scale(1.2); transform-origin: top;"
   />
 </div>
+
 
 <!-- </a> -->
 
