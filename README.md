@@ -15,11 +15,17 @@
 <img src="https://img.shields.io/badge/Java-6a11cb?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-2575fc?style=for-the-badge&logo=javascript&logoColor=white"/>
 
+<!-- 프론트엔드 -->
+<img src="https://img.shields.io/badge/HTML-6a11cb?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-2575fc?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <!-- 백엔드 -->
 <img src="https://img.shields.io/badge/Spring_Boot-6a11cb?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-4e6eaf?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate_ORM-6a11cb?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<!-- 인프라 -->
+<img src="https://img.shields.io/badge/Docker-2575fc?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <br/><br/>
 
@@ -33,12 +39,7 @@
 <img src="https://img.shields.io/badge/Spring_Security-2575fc?style=for-the-badge&logo=spring&logoColor=white"/>
 
 <!-- 프론트엔드 -->
-<img src="https://img.shields.io/badge/HTML-6a11cb?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-2575fc?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-4e6eaf?style=for-the-badge&logo=react&logoColor=white"/>
-
-<!-- 인프라 -->
-<img src="https://img.shields.io/badge/Docker-2575fc?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <!-- 데이터베이스 -->
 <img src="https://img.shields.io/badge/MariaDB-4e6eaf?style=for-the-badge&logo=mariadb&logoColor=white"/>
