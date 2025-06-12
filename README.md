@@ -60,10 +60,9 @@
     width="600"
     height="300"
   />
-</a>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?PARKJAEGWON=anuraghazra&layout=compact)
+<!-- </a> -->
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?PARKJAEGWON=anuraghazra&layout=compact)
 </div>
 
 
