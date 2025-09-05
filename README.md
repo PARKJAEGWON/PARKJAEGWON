@@ -1,14 +1,17 @@
 <div>
   <!--Body-->
   
-
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logoColor=white"/>
+### Front
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&labelColor=white"/>
 <img src="https://img.shields.io/badge/Jsp-000000?style=for-the-badge&logoColor=white"/>
+<br>
+<br>
+
+### Back
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&labelColor=white"/>
 <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate_ORM-000000?style=for-the-badge&logoColor=white"/>
 <br>
@@ -22,6 +25,7 @@
 <br>
 <br>
 
+### DevOps
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logoColor=white"/>
 
 <br/><br/>
