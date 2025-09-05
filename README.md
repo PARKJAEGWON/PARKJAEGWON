@@ -14,7 +14,7 @@
 <br>
 <br>
 
-# Database
+<span style="font-size:18px">Database</span>
 <!-- 데이터베이스 -->
 <img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logoColor=white"/>
