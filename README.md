@@ -22,6 +22,7 @@ http://arsleatherkorea.com/
 <img src="https://img.shields.io/badge/CSS-2575fc?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <!-- 백엔드 -->
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=auto&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6a11cb?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-4e6eaf?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate_ORM-6a11cb?style=for-the-badge&logo=hibernate&logoColor=white"/>
