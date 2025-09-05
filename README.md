@@ -3,26 +3,24 @@
   
 
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jsp-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&labelColor=white"/>
+<img src="https://img.shields.io/badge/Jsp-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate_ORM-000000?style=for-the-badge&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logoColor=white"/>
-
-<br/><br/>
-
-<!-- 언어 -->
-
+<br>
 <!-- 데이터베이스 -->
 <img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
 
 ### Staging server  
 http://arsleatherkorea.com/
