@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&labelColor=white"/>
 <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate_ORM-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logoColor=white"/>
 <br>
 
 ### Database
