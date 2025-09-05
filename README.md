@@ -14,6 +14,7 @@
 
 <!-- 언어 -->
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jsp-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logoColor=white"/>
 
 <!-- 프론트엔드 -->
