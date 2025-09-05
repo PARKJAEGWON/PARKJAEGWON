@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logoColor=white"/>
+<br>
 
 ### DevOps
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logoColor=white"/>
