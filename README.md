@@ -6,8 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1C18DC&background=FFFFFF&vCenter=true&width=435&height=30&lines=👀+About+Me)](https://git.io/typing-svg) 
    ##
 
-### Staging server  
-http://arsleatherkorea.com/
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2575FC&vCenter=true&width=300&lines=Tech+Stack)](https://git.io/typing-svg)
 
@@ -49,6 +48,9 @@ http://arsleatherkorea.com/
 <img src="https://img.shields.io/badge/PostgreSQL-2575fc?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4e6eaf?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-6a11cb?style=for-the-badge&logo=redis&logoColor=white"/>
+
+### Staging server  
+http://arsleatherkorea.com/
 
   <br/>
 
