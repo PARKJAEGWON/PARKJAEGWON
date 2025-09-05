@@ -14,14 +14,14 @@
 <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white"/>
+<br>
 
 ### Database
 <!-- 데이터베이스 -->
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logoColor=white"/>
 <br>
 
 ### DevOps
