@@ -3,12 +3,8 @@
 <div>
   <!--Body-->
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1C18DC&background=FFFFFF&vCenter=true&width=435&height=30&lines=👀+About+Me)](https://git.io/typing-svg) 
    ##
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2575FC&vCenter=true&width=300&lines=Tech+Stack)](https://git.io/typing-svg)
 
 
 
