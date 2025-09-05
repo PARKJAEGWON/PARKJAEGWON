@@ -13,7 +13,7 @@
 
 
 <!-- 언어 -->
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-2575fc?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 <!-- 프론트엔드 -->
