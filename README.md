@@ -40,7 +40,7 @@ http://arsleatherkorea.com/
   <br/>
   <br/>
 
-Notion: https://military-parsley-c68.notion.site/groo-log-268acfcc8a378000b295fb2fb8d76fa3?pvs=143
+<!-- Notion: https://military-parsley-c68.notion.site/groo-log-268acfcc8a378000b295fb2fb8d76fa3?pvs=143 -->
 <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PARKJAEGWON&utm_content=line"> -->
 <!-- <img src="https://render.gitanimals.org/lines/PARKJAEGWON?pet-id=698115423339893793" width="400" height="200" />  -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEGWON&layout=compact" width="400" height="150" /> -->
