@@ -30,12 +30,10 @@
 <br/><br/>
 
 
-### Staging server  
-http://arsleatherkorea.com/
 
   <br/>
   <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKJAEGWON&layout=compact"/>
+
 
   <br/>
   <br/>
